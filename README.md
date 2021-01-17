@@ -7,7 +7,13 @@
 ## Results
 
 - How is the district summary affected?
-	- Surprisingly not by much, there's the obvious slight change that you'll see when removing an entire grade level, but as for the district summary, you don't see any changes with regards to the holistic view of the district. (see 1a)
+	- Surprisingly not by much, there's the obvious slight change that you'll see when removing an entire grade level, but as for the district summary, you don't see any changes with regards to the holistic view of the district. 
+	![District_Summary_1](https://user-images.githubusercontent.com/75768098/104851309-db843200-58b9-11eb-8372-91f9f5f4fa5c.png)
+	- And here is the updated summary:
+	![District_Summary_2](https://user-images.githubusercontent.com/75768098/104851328-fa82c400-58b9-11eb-841b-b0fd64b1d11c.png)
+	
+	-As you can see, there is not much change since we are just removing around 1% of the total data
+
 
 ----
 
@@ -15,6 +21,8 @@
 - How is the school summary affected? 
 	- The school summary is only slightly affected (as expected when removing a large set of data). The percentages fell very slightly along with the overall percentage. (see 1b)
 	
+
+	- 
 ---
 
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
